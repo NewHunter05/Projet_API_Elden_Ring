@@ -1,4 +1,4 @@
-datadex/
+
 ├── main.go              # démarrage du serveur + routes
 ├── api/                 # tout ce qui parle à l'API (client, structs, cache)
 │   └── client.go
